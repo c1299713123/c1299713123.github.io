@@ -1,0 +1,36 @@
+.wrapper {
+    width: 500px;
+    position: relative;
+   margin:auto;
+   border-style:dotted;
+    border-width: medium;
+    border-color: rebeccapurple;
+}
+
+body {
+    background-color: black;
+    color: #FF6700;
+   
+}
+
+.links {
+    color:#FF6700;
+}
+
+#shrek {
+    width: 500px;
+}
+
+#dreamworks {
+    width:100%;
+}
+#heroarch {
+    width: 100%;
+}
+
+
+
+
+
+
+
